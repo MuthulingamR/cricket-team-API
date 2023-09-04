@@ -5,8 +5,8 @@ POST http://localhost:3000/players/
 Content-Type: application/json
 
 {
-  "playerName": "Vishal",
-  "jerseyNumber": 17,
+  "playerName": "Muthu",
+  "jerseyNumber": 1410,
   "role": "Bowler"
 }
 
